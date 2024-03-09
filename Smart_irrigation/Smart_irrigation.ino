@@ -13,8 +13,8 @@ SMART IRRIGATION
 char auth[] = BLYNK_AUTH_TOKEN;
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "sai kiran";
-char pass[] = "9620392045sk";
+char ssid[] = "Wifi";
+char pass[] = "0000000000";
 BlynkTimer timer;
 // This function is called every time the device is connected to the Blynk.Cloud
 BLYNK_CONNECTED()
